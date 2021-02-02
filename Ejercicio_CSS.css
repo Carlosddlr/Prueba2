@@ -1,0 +1,51 @@
+html{
+    background-color: rgb(228, 206, 221);
+}
+li {
+    color: blue;
+    padding-left: 50px;
+    font-size: 11px;
+}
+
+#protocolo {
+    background-color: chartreuse;
+}
+
+.title {
+    background-color: brown;
+}
+
+.subtitle {
+    color: rgba(255, 252, 80, 0.993);
+    background-color: darkgreen;
+}
+
+#mainBox{
+    border: 5px solid rgba(112, 224, 7, 0.993);
+    display: flex;
+    height: 800px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    
+}
+
+.caja1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(202, 33, 10);
+}
+/* cajas */
+
+.caja2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(217, 240, 12);
+}
+.caja3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(31, 221, 40, 0.623);
+}
+
+
